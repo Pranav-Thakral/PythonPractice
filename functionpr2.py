@@ -1,4 +1,4 @@
-#expression to calculate sum of n naural numbers using functions
+#expression to calculate sum of n natural numbers using functions
 def getSum(num):
   if num == 1:
     return 1
