@@ -1,0 +1,6 @@
+a=open("practice2.py","r")
+text=a.read()
+#print(text)
+b=open("factorial.py","rb")
+just=b.read()
+print(just)
